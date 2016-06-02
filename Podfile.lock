@@ -1,0 +1,19 @@
+PODS:
+  - AWSCore (2.4.2)
+  - AWSIoT (2.4.2):
+    - AWSCore (= 2.4.2)
+  - GaugeView (0.1.4)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - AWSIoT
+  - GaugeView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  AWSCore: 08cc4318682a518ad73e452900336ba54e823e03
+  AWSIoT: 6b5aebd81920059590c7e664faae90c5e6ad4977
+  GaugeView: c086ed105981d51d16ad903fb03138a1ae718e16
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
